@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="f6556f36-3af9-4101-8d9b-66df469ce627" name="Changes" comment="remove posts">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/_posts/2019-5-6-writing-a-vuepress-theme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +72,7 @@
       <workItem from="1648553919313" duration="53000" />
       <workItem from="1648553974580" duration="82000" />
       <workItem from="1648554068570" duration="318000" />
-      <workItem from="1648554424583" duration="969000" />
+      <workItem from="1648554424583" duration="1947000" />
     </task>
     <task id="LOCAL-00001" summary="second change">
       <created>1647763975856</created>

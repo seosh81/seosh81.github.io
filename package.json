@@ -1,20 +1,25 @@
 {
-  "name": "yaho",
+  "name": "temp",
   "version": "0.0.1",
-  "description": "yaho",
+  "description": "",
   "main": "index.js",
   "authors": {
-    "name": "yaho",
-    "email": "seosh81@gmail.com"
+    "name": "",
+    "email": ""
   },
-  "repository": "yaho/yaho",
+  "repository": "/temp",
   "scripts": {
     "dev": "vuepress dev blog",
     "build": "vuepress build blog"
   },
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.3.1",
-    "@vuepress/theme-blog": "^2.1.0"
+    "@maginapp/vuepress-plugin-katex": "^1.0.11",
+    "@vuepress/plugin-google-analytics": "^1.3.0"
+  },
+  "dependencies": {
+    "@vuepress/theme-blog": "^2.3.3",
+    "vuepress": "^1.8.2",
+    "vuepress-plugin-feed": "^0.1.9"
   }
 }
