@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6556f36-3af9-4101-8d9b-66df469ce627" name="Changes" comment="revert commit">
+      <change afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="4" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26dqjXKTfUBmWlZ2tSFBl9WPmYY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/2022-03-28" />
+      <recent name="$PROJECT_DIR$/assets/img" />
+      <recent name="$PROJECT_DIR$/assets/images/2022-03-28" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6556f36-3af9-4101-8d9b-66df469ce627" name="Changes" comment="" />
+      <created>1647763945823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647763945823</updated>
+      <workItem from="1647763946988" duration="724000" />
+      <workItem from="1647860160400" duration="10000" />
+      <workItem from="1648386201041" duration="12831000" />
+      <workItem from="1648553855422" duration="60000" />
+      <workItem from="1648553919313" duration="53000" />
+      <workItem from="1648553974580" duration="82000" />
+      <workItem from="1648554068570" duration="318000" />
+      <workItem from="1648554424583" duration="178000" />
+    </task>
+    <task id="LOCAL-00001" summary="second change">
+      <created>1647763975856</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647763975856</updated>
+    </task>
+    <task id="LOCAL-00002" summary="second change">
+      <created>1648386254162</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1648386254162</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2022-03-27 일기">
+      <created>1648387110919</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648387110919</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2022-03-27 일기">
+      <created>1648387236220</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1648387236220</updated>
+    </task>
+    <task id="LOCAL-00005" summary="about 페이지 수정">
+      <created>1648388123342</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1648388123342</updated>
+    </task>
+    <task id="LOCAL-00006" summary="about 페이지 수정.">
+      <created>1648388414392</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1648388414392</updated>
+    </task>
+    <task id="LOCAL-00007" summary="인터페이스에 맞춰서 프로그래밍">
+      <created>1648470675902</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1648470675902</updated>
+    </task>
+    <task id="LOCAL-00008" summary="날짜 변경">
+      <created>1648470796937</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1648470796937</updated>
+    </task>
+    <task id="LOCAL-00009" summary="타이틀 변경.">
+      <created>1648470851889</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1648470851889</updated>
+    </task>
+    <task id="LOCAL-00010" summary="vuepress blog 설치">
+      <created>1648500945037</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1648500945037</updated>
+    </task>
+    <task id="LOCAL-00011" summary="vuepress blog 누락 커밋 추가">
+      <created>1648501288884</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1648501288884</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second change" />
+    <MESSAGE value="2022-03-27 일기" />
+    <MESSAGE value="about 페이지 수정" />
+    <MESSAGE value="about 페이지 수정." />
+    <MESSAGE value="인터페이스에 맞춰서 프로그래밍" />
+    <MESSAGE value="날짜 변경" />
+    <MESSAGE value="타이틀 변경." />
+    <MESSAGE value="vuepress blog 설치" />
+    <MESSAGE value="vuepress blog 누락 커밋 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="vuepress blog 누락 커밋 추가" />
+  </component>
+</project>

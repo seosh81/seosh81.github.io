@@ -1,0 +1,20 @@
+Index: deploy.sh
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>#!/usr/bin/env sh\n\n# abort on errors\nset -e\n\n# build\n# npm run build\nnpx vuepress build blog\n\n# navigate into the build output directory\ncd blog/.vuepress/dist\n\n# if you are deploying to a custom domain\n# echo 'www.example.com' > CNAME\n\ngit init\ngit add -A\ngit commit -m 'update blog'\ngit push -f git@github.com:jiyeonseo/jiyeonseo.github.io.git master\n\ncd -
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/deploy.sh b/deploy.sh
+--- a/deploy.sh	(revision 153d69665b7254a1b0723b2add9bdb3de27239e4)
++++ b/deploy.sh	(date 1648504068406)
+@@ -16,6 +16,6 @@
+ git init
+ git add -A
+ git commit -m 'update blog'
+-git push -f git@github.com:jiyeonseo/jiyeonseo.github.io.git master
++git push -f git@github.com:seosh81/seosh81.github.io.git master
+ 
+-cd -
+\ No newline at end of file
++cd -
