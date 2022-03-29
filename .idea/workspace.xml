@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6556f36-3af9-4101-8d9b-66df469ce627" name="Changes" comment="revert commit">
-      <change afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
+    <list default="true" id="f6556f36-3af9-4101-8d9b-66df469ce627" name="Changes" comment="remove posts">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +38,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
     <property name="nodejs_package_manager_path" value="yarn" />
@@ -66,7 +68,7 @@
       <workItem from="1648553919313" duration="53000" />
       <workItem from="1648553974580" duration="82000" />
       <workItem from="1648554068570" duration="318000" />
-      <workItem from="1648554424583" duration="178000" />
+      <workItem from="1648554424583" duration="969000" />
     </task>
     <task id="LOCAL-00001" summary="second change">
       <created>1647763975856</created>
@@ -145,7 +147,28 @@
       <option name="project" value="LOCAL" />
       <updated>1648501288884</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="deploy file">
+      <created>1648554649902</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1648554649902</updated>
+    </task>
+    <task id="LOCAL-00013" summary="deploy file">
+      <created>1648554674875</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1648554674875</updated>
+    </task>
+    <task id="LOCAL-00014" summary="remove posts">
+      <created>1648554744967</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1648554744967</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +195,8 @@
     <MESSAGE value="타이틀 변경." />
     <MESSAGE value="vuepress blog 설치" />
     <MESSAGE value="vuepress blog 누락 커밋 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="vuepress blog 누락 커밋 추가" />
+    <MESSAGE value="deploy file" />
+    <MESSAGE value="remove posts" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove posts" />
   </component>
 </project>
